@@ -1,0 +1,176 @@
+
+*{
+    margin: 0  ;   
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+nav{
+    
+    background-image: url(../images/banner/banner1.png); 
+    
+    width: 1500px;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+    
+}
+
+.heade{
+    
+    text-align: right;
+    font-weight: 700;
+    font-size: 65px;
+
+    
+
+    color: #151414;
+}
+.para{
+    
+    font-size: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: right;
+    text-indent: 30px;
+    
+
+}
+
+.btn{
+    font-style: normal;
+    
+    text-align: right;
+    
+
+
+    
+}
+
+.about{
+    background-image: url(../images/person.png);
+    background-size: cover;
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    background-repeat: no-repeat;
+}
+.second{
+
+    text-align: right;
+    
+}
+
+.try{
+    text-align: right;
+}
+
+.section_one{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+
+.what{
+    margin-top: 130px;
+
+}
+
+.skills{
+    display: flex;  
+    gap: 40px;
+
+}
+
+.skill{
+    font-weight: 700;
+    font-size: 20px;
+    align-items: center;
+}
+
+.skill-title{
+    font-weight: 700;
+    font-size: 30px;
+    padding: 10px 40px;
+
+}
+
+.skill-dis{
+    font-weight: 500;
+    font-size: 25px;
+    padding: 10px 40px;
+    color: #737272;
+
+}
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .text-block {
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .con{
+    font-weight: 700;
+    font-size: 40px;
+    
+    color: white;
+
+  }
+  .butt{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #F15B22;
+
+
+  }
+
+  .contact{
+    display: flex;
+    gap: 50px;
+    color: azure;
+    
+    background-color: #151414;
+    padding: 130px 200px;
+  }
+
+  .com_one{
+    color: beige;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    
+
+
+  }
+
+  .com_two{
+
+    color: beige;
+    padding-left: 20px;
+  }
+
+  .h1{
+    padding-bottom: 20px;
+    font-weight: 700;
+    font-size: 45px;
+  }
+  .h2{
+    font-weight: 400;
+    font-size: 16px;
+    padding-bottom: 20px;
+  }
